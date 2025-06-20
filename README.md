@@ -1,95 +1,56 @@
-<h1 align="center">🌟 Samuel</h1>
-<h3 align="center">Computer Science Graduate | MERN Stack Developer | Cybersecurity Enthusiast 🚀</h3>
+# 🌟 Samuel  
+**Full-Stack Developer | Cybersecurity Enthusiast**  
 
-<p align="center">
-  Welcome to my GitHub universe! 🌍<br>
-  I'm <strong>Samuel</strong>, a recent Computer Science graduate passionate about building full-stack web applications with the MERN stack and securing them against vulnerabilities.<br>
-  I love crafting scalable, user-friendly solutions and exploring the world of penetration testing.<br>
-  <strong>Let’s build something secure and awesome! 💻🔒</strong>
-</p>
-
-<p align="center">
-  🔗 <a href="https://samuel-portfolio.com" target="_blank">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/samuel-dejen/" target="_blank">LinkedIn</a> • 
-  <a href="samidejen7@gmail.com">Email 📧</a>
-</p>
+## 🔗 Connect  
+[🌐 Portfolio](https://samuel-portfolio.com) • 
+[🔗 LinkedIn](https://www.linkedin.com/in/samuel-dejen) • 
+[📧 Email](samidejen7@gmail.com)
 
 ---
 
-## 🌈 About Me
+## 🛠 Tech Stack  
 
-- 🧠 **Passions**: Full-stack development, app performance, cybersecurity.
-- 📚 **Currently Exploring**: Advanced MERN architectures & ethical hacking.
-- 🎯 **Goal**: Contribute to secure, scalable tech as a Full-Stack Dev or Security Engineer.
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 
----
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-## 🛠️ Tech Stack & Skills
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-### 💻 Programming Languages
-`JavaScript (ES6+)` • `TypeScript` • `Python` • `C++`
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 
-### 🎨 Frontend Development
-`React` • `Redux` • `HTML/CSS` • `Tailwind CSS`
+### 🔒 Security & Penetration Testing  
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)  
+![OAuth](https://img.shields.io/badge/-OAuth-2867B2?logo=oauth&logoColor=white)  
+![Helmet.js](https://img.shields.io/badge/-Helmet.js-3C873A?logo=helmet&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F47F24?logo=burpsuite&logoColor=white)  
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?logo=owasp&logoColor=white)  
+![Nmap](https://img.shields.io/badge/-Nmap-3E3E3E?logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 
-### 🔧 Backend Development
-`Node.js` • `Express.js` • `Flask`
+### 🧪 Testing  
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)  
+![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?logo=testinglibrary&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 
-### 🗄️ Databases
-`MongoDB` • `PostgreSQL` 
-
-### 🔒 Secure Development
-- OWASP Security Practices 🛡️
-- Helmet.js • CORS • JWT • OAuth2 • bcrypt
-- Secure Auth & API hardening
-
-### 🕵️‍♂️ Cybersecurity & Pentesting
-- Burp Suite • OWASP ZAP
-- Kali Linux • Nmap • Wireshark
-- Vulnerability Assessment & Ethical Hacking
-
-### ⚙️ Tools & Platforms
-`Git` • `Docker` • `VS Code` • `Linux` • `AWS`
-
----
-
-## 🚀 Projects
-
-### 🌐 [Personal Portfolio](https://samuel-portfolio.com)
-> **Tech**: React, Node.js, Express, MongoDB  
-> 🛡️ Secure portfolio with dynamic sections, JWT authentication & responsive design.
-
-### 📋 [Task Manager App](https://github.com/samuel-cs/task-manager)
-> **Tech**: MERN Stack, Redux, JWT  
-> ✅ Task tracker with login system, secure APIs (ZAP tested), and real-time updates.
-
-### 🛒 [E-Commerce Platform](https://github.com/samuel-cs/ecommerce-app)
-> **Tech**: MERN Stack, bcrypt  
-> 🔐 Shopping app with cart, product management, and encrypted user auth.
-
----
-
-## 🎓 Education
-
-🎓 **B.Sc. in Computer Science**  
-📍 University of DebreMarkos, Amhara,Ethiopia  
-📆 Graduated: **May 2024**  
-
-
-🧪 **Capstone Project**  
-> Developed a secure MERN task manager app — tested with penetration tools and implemented full authentication.
-
----
-
-## 📬 Let’s Connect!
-
-📧 [samuel.cs@example.com](mailto:samuel.cs@example.com)  
-💼 [linkedin.com/in/samuel-cs](www.linkedin.com/in/samuel-dejen)  
-🌐 [samuel-portfolio.com](https://samuel-portfolio.com)  
-🐙 [github.com/samuel-cs](https://github.com/samuel-cs)
-
----
-
-<p align="center"><i>“Building secure, scalable apps is my passion — and I’m ready to make an impact!” 💪🔒</i></p>
-
-<p align="center">Thanks for visiting my profile! Let’s collaborate on something amazing. 🌟</p>
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BDA?logo=kali-linux&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
