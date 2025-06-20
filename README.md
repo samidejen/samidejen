@@ -10,7 +10,7 @@
 
 <p align="center">
   🔗 <a href="https://samuel-portfolio.com" target="_blank">Portfolio</a> • 
-  <a href="www.linkedin.com/in/samuel-dejen" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/samuel-dejen/" target="_blank">LinkedIn</a> • 
   <a href="samidejen7@gmail.com">Email 📧</a>
 </p>
 
