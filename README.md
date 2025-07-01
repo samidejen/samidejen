@@ -2,7 +2,7 @@
 **Full-Stack Developer | Cybersecurity Enthusiast**  
 
 ## 🔗 Connect  
-[🌐 Portfolio](https://samuel-portfolio.com) • 
+[🌐 Portfolio](https://samidejen.vercel.app) • 
 [🔗 LinkedIn](https://www.linkedin.com/in/samuel-dejen) • 
 [📧 Email](samidejen7@gmail.com)
 
