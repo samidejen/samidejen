@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Samuel+Dejen;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Samuel+Dejen;MERN+Stack+Developer+%7C+Penetration+Tester;Cybersecurity+%E2%9A%94+Full-Stack+Explorer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <!-- Clean developer animation (works reliably on GitHub) -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile Views" />
+</p>
 
 <p align="center">
   <!-- Profile views with badge style -->
