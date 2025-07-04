@@ -1,14 +1,14 @@
-<!-- Typing Animation Heading -->
+<!-- Typing Animation Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Samuel+Dejen;MERN+Stack+Developer+%F0%9F%92%BB;Penetration+Tester+%F0%9F%94%91;Cybersecurity+%E2%9A%94+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
-<!-- Cybersecurity / Developer Animation (No human shown) -->
+<!-- Coding/Cyber Animation: no human figure -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hp3dmE0i1jXnG/giphy.gif" width="350" alt="cyber scanner" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="terminal-coding-animation" />
 </div>
 
-<!-- Profile Views -->
+<!-- Profile View Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=06B6D4" alt="Profile Views" />
 </p>
