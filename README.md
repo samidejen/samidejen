@@ -83,12 +83,15 @@ I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion
 
 ---
 
-## 📈 GitHub Stats
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- Bold Heading for GitHub Stats -->
+  <b>📊 GitHub Stats</b><br />
   <img src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en&theme=radical&border_radius=10&hide_border=false" alt="GitHub Stats" />
+  
   <br /><br />
-  <!-- Top Languages -->
+  
+  <!-- Bold Heading for Top Languages -->
+  <b>🗂️ Top Languages</b><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidejen&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
 </div>
 ## 🚀 Featured Projects
