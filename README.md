@@ -3,12 +3,14 @@
 </h1>
 
 <div align="center">
-  <img height="160" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding-night" />
+  <!-- New animated developer-themed illustration -->
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca21a7bba1f6364f1ecf63f170.gif" alt="developer-at-work" width="300" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samidejen&label=Profile%20views&color=0e75b6&style=flat" alt="samidejen" />
-</p>
 
+<p align="center">
+  <!-- A sleeker badge style for profile views -->
+  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=Profile+Views&color=0e75b6" alt="Profile Views" />
+</p>
 ---
 
 ### 👋 About Me
