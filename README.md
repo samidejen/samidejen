@@ -4,14 +4,10 @@
 
 
 <div align="center">
-  <!-- Upgraded coding animation (smooth, colorful) -->
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="350" alt="animated-coding" />
-</div>
-
-<p align="center">
-  <!-- Updated profile view badge with matching cyan color -->
-  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=06B6D4" alt="Profile Views" />
-</p>p>
+  <!-- Select the one that suits your vibe best -->
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" alt="cyber terminal" />
+</div>>
+</p>
 
 ### 👋 About Me
 I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion for building secure, scalable, and performant web applications. I enjoy exploring backend systems, pen testing tools, and bringing UIs to life.
