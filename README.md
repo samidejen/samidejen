@@ -1,18 +1,17 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Samuel+Dejen;MERN+Stack+Developer+%F0%9F%92%BB;Penetration+Tester+%F0%9F%94%91;Cybersecurity+%E2%9A%94+Tech+Explorer" alt="Typing SVG" />
 </h1>
+
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+  <!-- Upgraded coding animation (smooth, colorful) -->
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="350" alt="animated-coding" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Profile views with badge style -->
-  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile Views" />
-</p>
+  <!-- Updated profile view badge with matching cyan color -->
+  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=06B6D4" alt="Profile Views" />
+</p>p>
 
 ### 👋 About Me
 I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion for building secure, scalable, and performant web applications. I enjoy exploring backend systems, pen testing tools, and bringing UIs to life.
