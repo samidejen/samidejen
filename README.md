@@ -84,15 +84,13 @@ I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samidejen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en&theme=radical&border_radius=10&hide_border=false" alt="GitHub Stats" />
+  <br /><br />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidejen&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
 </div>
-
----
-
 ## 🚀 Featured Projects
 
 - 🔐 [**VulnHunt**](https://github.com/samidejen/vulnhunt): Pen testing automation toolkit for modern web apps.
