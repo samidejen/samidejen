@@ -1,34 +1,33 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/>
-  <span> I Am Samuel Dejen. </span>
+  <span> I Am Samuel Dejen </span>
 </h1>
-
 
 <div align="center">
   <img height="160" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding-night" />
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=samidejen&label=Profile%20views&color=0e75b6&style=flat" alt="samidejen" />
 </p>
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
-</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samidejen&label=Profile%20views&color=0e75b6&style=flat" alt="samidejen" />
-</p>
+---
+
+### 👋 About Me
+I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion for building secure, scalable, and performant web applications. I enjoy exploring backend systems, pen testing tools, and bringing UIs to life.
+
+---
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/samuel-dejen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/samuel-dejen" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:samidejen7@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
+  <a href="mailto:samidejen7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
-  <a href="https://samidejen.vercel.app" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" height="30" />
+  <a href="https://samidejen.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </p>
 
@@ -86,10 +85,22 @@
 ---
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samidejen&show_icons=true&locale=en&layout=compact" alt="samidejen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en" alt="samidejen" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samidejen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
+## 🚀 Featured Projects
 
+- 🔐 [**VulnHunt**](https://github.com/samidejen/vulnhunt): Pen testing automation toolkit for modern web apps.
+- 🌐 [**My Portfolio**](https://samidejen.vercel.app): Built using React, Tailwind CSS & deployed via Vercel.
+
+---
+
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
+</div>
