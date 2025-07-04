@@ -1,13 +1,8 @@
-<<h1 align="center">
+<h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/>
   <span> I Am Samuel Dejen. </span>
 </h1>
 
-<div align="center" style="width: fit-content;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=600&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;MERN+Stack+Expert;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</div>
 
 <div align="center">
   <img height="160" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding-night" />
