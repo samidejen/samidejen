@@ -102,7 +102,3 @@ I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion
 - 🌐 [**My Portfolio**](https://samidejen.vercel.app): Built using React, Tailwind CSS & deployed via Vercel.
 
 ---
-
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
-</div>
