@@ -3,15 +3,14 @@
 </h1>
 
 <div align="center">
-  <!-- New animated developer-themed illustration -->
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca21a7bba1f6364f1ecf63f170.gif" alt="developer-at-work" width="300" />
+  <!-- Clean developer animation (works reliably on GitHub) -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
 </div>
 
 <p align="center">
-  <!-- A sleeker badge style for profile views -->
-  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=Profile+Views&color=0e75b6" alt="Profile Views" />
+  <!-- Profile views with badge style -->
+  <img src="https://komarev.com/ghpvc/?username=samidejen&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile Views" />
 </p>
----
 
 ### 👋 About Me
 I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion for building secure, scalable, and performant web applications. I enjoy exploring backend systems, pen testing tools, and bringing UIs to life.
