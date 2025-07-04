@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Samuel+Dejen;MERN+Stack+Developer+%F0%9F%92%BB;Penetration+Tester+%F0%9F%94%91;Cybersecurity+%E2%9A%94+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
-<!-- Coding/Cyber Animation: no human figure -->
+<!-- Animation: Cyber Circuit Board -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="terminal-coding-animation" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="tech circuit board animation" />
 </div>
 
 <!-- Profile View Badge -->
