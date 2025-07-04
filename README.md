@@ -1,14 +1,21 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <span>  I Am Samuel Dejen. </span>
+<<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/>
+  <span> I Am Samuel Dejen. </span>
 </h1>
 
 <div align="center" style="width: fit-content;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&width=500&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;MERN+Stack+Expert;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&width=600&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;MERN+Stack+Expert;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </div>
 
+<div align="center">
+  <img height="160" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="coding-night" />
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samidejen&label=Profile%20views&color=0e75b6&style=flat" alt="samidejen" />
+</p>
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
 </div>
