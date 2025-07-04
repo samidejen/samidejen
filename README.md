@@ -82,18 +82,19 @@ I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** with a passion
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
-
 <div align="center">
-  <!-- Bold Heading for GitHub Stats -->
-  <b>📊 GitHub Stats</b><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&locale=en&theme=radical&border_radius=10&hide_border=false" alt="GitHub Stats" />
-  
+  <!-- 📊 Full GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=samidejen&show_icons=true&theme=radical&hide_border=false&border_radius=10" 
+    alt="Full GitHub Stats" 
+  />
   <br /><br />
-  
-  <!-- Bold Heading for Top Languages -->
-  <b>🗂️ Top Languages</b><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidejen&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
-</div>
+  <!-- 🧠 Most Used Languages (non-compact layout B) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidejen&theme=radical&hide_border=false&border_radius=10" 
+    alt="Top Languages Full View" 
+  />
+</div>div>
 ## 🚀 Featured Projects
 
 - 🔐 [**VulnHunt**](https://github.com/samidejen/vulnhunt): Pen testing automation toolkit for modern web apps.
